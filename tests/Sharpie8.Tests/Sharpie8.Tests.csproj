@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\sharpie8.csproj" />
+    <ProjectReference Include="..\..\src\sharpie8\sharpie8.csproj" />
   </ItemGroup>
 
 </Project>
