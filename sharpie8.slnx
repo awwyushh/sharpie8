@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="sharpie8.csproj" />
+  <Project Path="Sharpie8.Tests/Sharpie8.Tests.csproj" />
 </Solution>
